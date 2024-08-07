@@ -36,5 +36,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the new button to be positioned on the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"Do you want the button to have a specific color or design to match the app's theme?\", \"option1\": \"Yes, it should match the app's theme\", \"option2\": \"No, the default style is fine\"}], \"input_token_count\": 375, \"output_token_count\": 105, \"time_taken\": \"0:00:02.554104\"}",
         "timestamp": "07082024200434",
         "message_id": "guest07082024200430"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Sign Up for a Free Trial' button for new users\", \"checked\": true}, {\"feature\": \"Incorporate a 'Book a Personal Training Session' button for scheduling\", \"checked\": false}, {\"feature\": \"Add a 'View Workout Plans' button to direct users to different workout plans\", \"checked\": false}, {\"feature\": \"Include a 'Contact Us' button for user inquiries and support\", \"checked\": false}, {\"feature\": \"Create a 'Feedback' button to collect user opinions and experiences\", \"checked\": false}], \"input_token_count\": 329, \"output_token_count\": 128, \"time_taken\": \"0:00:04.402093\"}",
+        "timestamp": "07082024200436",
+        "message_id": "guest07082024200430"
     }
 ]
