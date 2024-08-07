@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a button with text Free\nAI: To add a button with text \"Free\", Please follow these steps:\n\n1. Open the HTML file in your code editor.\n2. Choose the location where you want to add the button.\n3. Use the following code to create a button with the text \"Free\":\n\n```html\n<button>Free</button>\n```\n\n4. Save the changes and preview the HTML file in your web browser to see the button.\nThis is the user's current request of changes to be made: add a button"
+    }
+]
