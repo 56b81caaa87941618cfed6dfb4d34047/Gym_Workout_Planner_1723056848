@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button",
+        "message_id": "guest07082024200430",
+        "timestamp": "07082024200431",
+        "component_file_name": "simple_cta_component_1723056849",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "To add a button with text \"Free\", Please follow these steps:\n\n1. Open the HTML file in your code editor.\n2. Choose the location where you want to add the button.\n3. Use the following code to create a button with the text \"Free\":\n\n```html\n<button>Free</button>\n```\n\n4. Save the changes and preview the HTML file in your web browser to see the button.",
         "message_id": "guest07082024185442",
