@@ -30,5 +30,11 @@
         "content": "I'll add the button as requested.",
         "timestamp": "07082024200431",
         "message_id": "guest07082024200430"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the new button to be positioned on the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"Do you want the button to have a specific color or design to match the app's theme?\", \"option1\": \"Yes, it should match the app's theme\", \"option2\": \"No, the default style is fine\"}], \"input_token_count\": 375, \"output_token_count\": 105, \"time_taken\": \"0:00:02.554104\"}",
+        "timestamp": "07082024200434",
+        "message_id": "guest07082024200430"
     }
 ]
